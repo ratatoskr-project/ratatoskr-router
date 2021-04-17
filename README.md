@@ -28,4 +28,12 @@ integration and support for high-throughput links, see paper.
 - noc_heter_high_throughput_with_pe: 3D NoC router with PE, see above.
 
 For a complete documentation of all architectural details, please contact us
-directly. (This is partly the result of the Master thesis "Technology-Aware On-Chip Router Architecture for High-Performance 3D SoCs" by Behnam Razi Perjikolaei, which cannot be made publicly available.) 
+directly. (This is partly the result of the Master thesis "Technology-Aware On-Chip Router 
+Architecture for High-Performance 3D SoCs" by Behnam Razi Perjikolaei, 
+which cannot be made publicly available.) 
+
+# Contributors
+
+- Lennart Bamberg, GrAI Matter Labs, Eindhoven, The Netherlands
+- Behnam Razi Perjikolaei, OFFIS, Oldenburg, Germany
+- Jan Moritz Joseph, RWTH Aachen University, Germany
